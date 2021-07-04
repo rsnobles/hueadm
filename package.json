@@ -17,7 +17,7 @@
     "cmdln": "^4.4.0",
     "color-convert": "^2.0.0",
     "css-color-names": "^1.0.1",
-    "deepmerge": "^3.2.0",
+    "deepmerge": "^3.3.0",
     "hue-sdk": "0.1.0",
     "latest": "^0.2.0",
     "mired": "0.0.0",
